@@ -9,3 +9,5 @@ The 4th fruit, kiwi, is added.
 
 Way more fruits are merged from local branch.
 
+Fixed a bug in print.py in more_item branch.
+
