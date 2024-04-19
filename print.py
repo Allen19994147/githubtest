@@ -9,3 +9,7 @@ print("\n")
 names = ["Allen","Kenny","Jenny","Lucas","John","Elsa","Rock","Bob","Arjun"]
 for x in names:
   print(x)
+
+items = ["Unbrella","Pot","Jacket","Jeans"]
+for x in names:
+  print(x)
