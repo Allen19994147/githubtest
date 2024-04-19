@@ -1,6 +1,6 @@
 print("Hello from print.py!\n")
 
-fruits = ["apple", "banana", "cherry","kiwi"]
+fruits = ["apple", "banana", "cherry","kiwi", "pear", "watermelon", "blueberry", "avocado"]
 for x in fruits:
   print(x)
 
