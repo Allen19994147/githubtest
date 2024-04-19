@@ -7,3 +7,5 @@ This line is written from GitHub right after the frist push from local. See you 
 
 The 4th fruit, kiwi, is added.
 
+Way more fruits are merged from local branch.
+
