@@ -14,7 +14,7 @@ for x in names:
 print("The number of names is: "+ str(len(names)))
 print("\n")
 
-items = ["Umbrella","Pot","Jacket","Jeans","Stove"]
+items = ["Umbrella","Pot","Jacket","Jeans","Stove","Tape","Canister"]
 for x in items:
   print(x)
 
