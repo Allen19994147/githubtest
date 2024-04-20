@@ -11,7 +11,12 @@ names = ["Allen","Kenny","Jenny","Lucas","John","Elsa","Rock","Bob","Arjun"]
 for x in names:
   print(x)
 
+print("The number of names is: "+ str(len(names)))
 print("\n")
+
 items = ["Umbrella","Pot","Jacket","Jeans","Stove"]
 for x in items:
   print(x)
+
+print("The number of items is: "+ str(len(items)))
+
