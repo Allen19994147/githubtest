@@ -6,7 +6,7 @@ for x in fruits:
 
 print("\n")
 
-names = ["Allen","Kenny","Jenny","Lucas","John","Elsa","Rock","Bob","Arjun","Alvardo"]
+names = ["Allen","Kenny","Jenny","Lucas","John","Elsa","Rock","Bob","Arjun","Alvardo","Juno"]
 for x in names:
   print(x)
 
