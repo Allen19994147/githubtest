@@ -4,6 +4,7 @@ fruits = ["apple", "banana", "cherry","kiwi", "pear", "watermelon", "blueberry",
 for x in fruits:
   print(x)
 
+print("The number of fruits is: "+ str(len(fruits)))
 print("\n")
 
 names = ["Allen","Kenny","Jenny","Lucas","John","Elsa","Rock","Bob","Arjun"]
