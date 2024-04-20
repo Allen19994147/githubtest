@@ -11,6 +11,6 @@ for x in names:
   print(x)
 
 print("\n")
-items = ["Unbrella","Pot","Jacket","Jeans"]
+items = ["Umbrella","Pot","Jacket","Jeans","Stove"]
 for x in items:
   print(x)
